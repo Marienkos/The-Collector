@@ -14,6 +14,7 @@
 | Early Doors               |
 | Extras                    |
 | Family Ties               |
+| Father Ted                |
 | Fawlty Towers             |
 | Frasier                   |
 | Fresh Meat                |
@@ -45,7 +46,6 @@
 | Operation Good Guys       |
 | Outnumbered               |
 | Party Down                |
-| Peep show                 |
 | People just do nothing    |
 | People like us            |
 | Phoenix Nights            |

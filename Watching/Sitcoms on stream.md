@@ -36,7 +36,6 @@
 | Shameless                         |
 | Silicon Valley                    |
 | Solar Opposites                   |
-| Stuart fails to save the universe |
 | Superstore                        |
 | The Four Seasons                  |
 | The Golden Girls                  |
@@ -45,7 +44,7 @@
 | The Last Man on Earth             |
 | The Middle                        |
 | The Righteous Gemstones           |
-| The upshaws                       |
+| The Upshaws                       |
 | Two and a half men                |
 | Tires                             |
 | Unbreakable Kimmy Schmidt         |
